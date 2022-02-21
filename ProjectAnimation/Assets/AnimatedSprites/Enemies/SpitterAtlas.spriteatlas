@@ -66,7 +66,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a2bf0c84810352345928f875e9722574, type: 3}
   - {fileID: 21300000, guid: f09178b404a32834883bc08597522d22, type: 3}
   - {fileID: 21300000, guid: bdebbaf48377ad346a0dad337aceea94, type: 3}
-  - {fileID: 21300000, guid: 914c7ff4b2e03254f8fca375221689a5, type: 3}
   - {fileID: 21300000, guid: 850fcf2571df67c4ea7f94f407d1a42c, type: 3}
   - {fileID: 21300000, guid: 10871335f574c994891877ebab0be6ac, type: 3}
   - {fileID: 21300000, guid: ddcad965dfaadd94393dcc3cec52b3ce, type: 3}
@@ -74,6 +73,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: d090c51669b3435449d4a2d4819b4261, type: 3}
   - {fileID: 21300000, guid: 48948d469c03d1146ad3d7026a482156, type: 3}
   - {fileID: 21300000, guid: e33ab0866768e0149af41c52aaa4359c, type: 3}
+  - {fileID: 21300000, guid: 217238d65f7075f4a91e39a1ab6d29ce, type: 3}
   - {fileID: 21300000, guid: 9cc3fcf61bd66d34c996a561899716bb, type: 3}
   - {fileID: 21300000, guid: 1db1cf67e678da1489caff40f4149421, type: 3}
   - {fileID: 21300000, guid: dfc824d7751687d4ab5c25b40b7cfd9a, type: 3}
@@ -120,7 +120,6 @@ SpriteAtlas:
   - SpitterAttack_06
   - SpitterAttack_32
   - SpitterWalk_13
-  - SpitterIdle_01
   - SpitterDeath_05
   - SpitterIdle_03
   - SpitterIdle_23
@@ -128,6 +127,7 @@ SpriteAtlas:
   - SpitterAttack_30
   - SpitterIdle_11
   - SpitterIdle_21
+  - SpitterIdle_01
   - SpitterWalk_03
   - SpitterWalk_05
   - SpitterAttack_24
